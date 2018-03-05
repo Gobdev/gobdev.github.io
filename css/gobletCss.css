@@ -1,8 +1,4 @@
-body {
-  background-color: DarkSlateGray;
-}
-
 #welcomeBanner{
-  font-family: verdana;
+  font-family: Monospace;
   font-size: 300%;
 }
